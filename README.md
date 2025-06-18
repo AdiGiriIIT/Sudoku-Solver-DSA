@@ -23,6 +23,7 @@ streamlit run streamlit_app.py
 - You can view if the answer you have input in any cell is right or wrong using the interactive Feedback Grid below.
 ![Screenshot from 2025-06-19 03-28-23](https://github.com/user-attachments/assets/f045b827-e48f-4ddd-a413-9a62fe0a3c8d)
 
-
+- If you are sure you can't solve the puzzle, then press the **Solve Puzzle** button and let the backtracking algorithm do the rest!
+- If you have solved the current one and want to try out more, click on **Generate New Puzzle**.
 
 
